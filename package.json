@@ -1,0 +1,23 @@
+{
+  "name": "higor1256",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higorsimao2001-svg/higor1256.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/higorsimao2001-svg/higor1256/issues"
+  },
+  "homepage": "https://github.com/higorsimao2001-svg/higor1256#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
